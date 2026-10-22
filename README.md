@@ -9,7 +9,7 @@ I’m a PhD candidate at CORIA, Université de Rouen Normandie, working on wave�
 
 My background is in mechanical engineering and fluid mechanics. Alongside my research, I teach and develop tools to make simulation and data analysis easier.
 
-### Current work
+### Research
 
 **[COAST](https://github.com/alimahdiiii/COAST)** 
 - Coastal Overtopping Analysis
