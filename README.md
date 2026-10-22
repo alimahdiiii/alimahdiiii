@@ -11,7 +11,8 @@ My background is in mechanical engineering and fluid mechanics. Alongside my res
 
 ### Current work
 
-**[COAST](https://github.com/alimahdiiii/COAST)** - Coastal Overtopping Analysis
+**[COAST](https://github.com/alimahdiiii/COAST)** 
+- Coastal Overtopping Analysis
 and Simulation Toolkit. A Streamlit application that automates the whole OpenFOAM
 pipeline for wave overtopping simulations, from parametric geometry and mesh
 generation through to event-by-event post-processing.
