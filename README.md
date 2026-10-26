@@ -11,11 +11,8 @@ My background is in mechanical engineering and fluid mechanics. Alongside my res
 
 ### Research
 
-**[COAST](https://github.com/alimahdiiii/COAST)** 
-- Coastal Overtopping Analysis
-and Simulation Toolkit. A Streamlit application that automates the whole OpenFOAM
-pipeline for wave overtopping simulations, from parametric geometry and mesh
-generation through to event-by-event post-processing.
+**[COAST: An open-source framework for automated wave overtopping analysis and simulation of coastal structures](https://doi.org/10.1016/j.rineng.2026.113720)**
+- *Results in Engineering*, 2026. [COAST source code on GitHub](https://github.com/alimahdiiii/COAST). An open-source framework for automating wave overtopping simulations and analysis.
 
 **[A hybrid GAN-CNN surrogate framework for wave-structure interaction](https://doi.org/10.1016/j.oceaneng.2026.127494)**
 - *Ocean Engineering*, 2026. A deep-learning surrogate that predicts free-surface
